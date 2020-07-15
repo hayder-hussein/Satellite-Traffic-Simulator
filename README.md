@@ -1,5 +1,5 @@
 # Traffic Simulator for Multibeam Satellite Communication Systems
-This dataset packages are related to the follow article:
+These dataset packages are related to the follow article:
 Hayder Al-Hraishawi, Eva Lagunas, Symeon Chatzinotas, "Traffic Simulator for Multibeam Satellite Communication Systems," Available:https://arxiv.org/abs/2007.07148
 
 # Abstract of the article
